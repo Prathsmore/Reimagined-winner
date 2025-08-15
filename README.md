@@ -1,5 +1,5 @@
 
-# 📆 Habit Tracker CLI
+# 📆 Reimagined -Winner
 
 A simple command-line habit tracker written in Python. Track your daily habits offline with JSON storage.
 
